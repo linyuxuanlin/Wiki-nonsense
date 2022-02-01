@@ -7,11 +7,9 @@
         "id": "55688298d82b1efd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "投影.md",
-            "mode": "source",
-            "source": false
+            "file": "res/20220109222233.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投影.md",
+                "file": "res/20220109222233.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投影.md",
+                "file": "res/20220109222233.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投影.md"
+                "file": "res/20220109222233.png"
               }
             }
           }
@@ -111,6 +109,7 @@
   },
   "active": "55688298d82b1efd",
   "lastOpenFiles": [
+    "res/20220109222233.png",
     "投影.md",
     "人在社会中需要遵守的原则.md",
     "内卷.md"
