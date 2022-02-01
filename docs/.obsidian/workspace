@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "创业.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "创业.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "创业.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "创业.md"
+                "file": "index.md"
               }
             }
           }
@@ -111,6 +111,7 @@
   },
   "active": "55688298d82b1efd",
   "lastOpenFiles": [
+    "index.md",
     "创业.md",
     "新木桶理论.md",
     "未来的趋势.md",
@@ -119,7 +120,6 @@
     "因果律与非线性时间.md",
     "人在社会中需要遵守的原则.md",
     "人性.md",
-    "言论自由.md",
-    "认知.md"
+    "言论自由.md"
   ]
 }
