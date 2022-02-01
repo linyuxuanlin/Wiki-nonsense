@@ -1,11 +1,5 @@
-# Obsidian Notes
+# 主页
 
-Publish your public notes with MkDocs
+这是一个大开脑洞的观点收纳站，收集整理了我接触的许多哲学、玄学、理念、观点。
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+请不要较真，如果你有相似 / 相异的观点想与我探讨，欢迎加我微信 'linyuxuanlin'。
