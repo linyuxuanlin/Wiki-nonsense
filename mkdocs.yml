@@ -7,7 +7,7 @@ theme:
     
 # Extensions
 markdown_extensions:
-  #- footnotes
+  - footnotes
   # - attr_list
   # - pymdownx.arithmatex
   # - pymdownx.superfences
