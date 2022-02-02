@@ -2,10 +2,14 @@ site_name: 胡思乱想，一派胡言
 repo_url: https://github.com/linyuxuanlin/Wiki-nonsense
 edit_uri: edit/main/docs/
 
+nav:
+    - '我的知识库': 'https://wiki-power.com/'
+
 theme:
-  name: "material"
-  locale: zh_CN
-  palette:
+    name: 'material'
+    locale: zh_CN
+    palette:
+
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -34,12 +38,12 @@ markdown_extensions:
   # - pymdownx.magiclink
   # - pymdownx.tasklist:
   #     custom_checkbox: true
-  #  - pymdownx.emoji:
-  #      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+#  - pymdownx.emoji:
+#      emoji_generator: !!python/name:pymdownx.emoji.to_svg
   # - admonition
   - toc:
       permalink: true
 
 plugins:
   - search
-  - roamlinks
+  - roamlinks 
