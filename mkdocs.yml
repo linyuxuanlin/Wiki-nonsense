@@ -3,7 +3,7 @@ repo_url: https://github.com/linyuxuanlin/Wiki-nonsense
 edit_uri: edit/main/docs/
 
 theme:
-    name: 'material'
+    name: material
     palette:
 
     # Light mode
