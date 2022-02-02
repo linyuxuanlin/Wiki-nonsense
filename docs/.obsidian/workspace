@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "拉普拉斯妖.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "无线递归",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "拉普拉斯妖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "拉普拉斯妖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "拉普拉斯妖.md"
               }
             }
           }
@@ -111,6 +112,7 @@
   },
   "active": "55688298d82b1efd",
   "lastOpenFiles": [
+    "拉普拉斯妖.md",
     "index.md",
     "创业.md",
     "新木桶理论.md",
@@ -119,7 +121,6 @@
     "命运.md",
     "因果律与非线性时间.md",
     "人在社会中需要遵守的原则.md",
-    "人性.md",
-    "言论自由.md"
+    "人性.md"
   ]
 }
