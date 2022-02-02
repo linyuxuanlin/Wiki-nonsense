@@ -1,5 +1,6 @@
 site_name: 胡思乱想，一派胡言
 repo_url: https://github.com/linyuxuanlin/Wiki-nonsense
+edit_uri: edit/main/docs/
 
 theme:
     name: 'material'
