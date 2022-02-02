@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "拉普拉斯妖.md",
+            "file": "预言与预知梦.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "无线递归",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拉普拉斯妖.md",
+                "file": "预言与预知梦.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拉普拉斯妖.md",
+                "file": "预言与预知梦.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拉普拉斯妖.md"
+                "file": "预言与预知梦.md"
               }
             }
           }
@@ -112,15 +111,15 @@
   },
   "active": "55688298d82b1efd",
   "lastOpenFiles": [
+    "预言与预知梦.md",
+    "因果律与非线性时间.md",
+    "阅读.md",
     "拉普拉斯妖.md",
     "index.md",
     "创业.md",
     "新木桶理论.md",
     "未来的趋势.md",
     "风口与泡沫.md",
-    "命运.md",
-    "因果律与非线性时间.md",
-    "人在社会中需要遵守的原则.md",
-    "人性.md"
+    "命运.md"
   ]
 }
