@@ -2,9 +2,6 @@ site_name: 胡思乱想，一派胡言
 repo_url: https://github.com/linyuxuanlin/Wiki-nonsense
 edit_uri: edit/main/docs/
 
-nav:
-    - 'Power\'s Wiki': 'https://wiki-power.com/'
-
 theme:
     name: 'material'
     palette:
