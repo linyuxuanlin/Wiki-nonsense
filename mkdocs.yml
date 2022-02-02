@@ -7,7 +7,6 @@ nav:
 
 theme:
     name: 'material'
-    locale: zh_CN
     palette:
 
     # Light mode
@@ -30,7 +29,7 @@ theme:
 
 # Extensions
 markdown_extensions:
-  # - footnotes
+  - footnotes
   # - attr_list
   # - pymdownx.arithmatex
   # - pymdownx.superfences
