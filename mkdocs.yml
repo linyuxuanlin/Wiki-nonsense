@@ -3,7 +3,7 @@ repo_url: https://github.com/linyuxuanlin/Wiki-nonsense
 edit_uri: edit/main/docs/
 
 nav:
-    - 'Power\'s Wiki': 'https://wiki-power.com/'
+    - '我的知识库': 'https://wiki-power.com/'
 
 theme:
     name: 'material'
