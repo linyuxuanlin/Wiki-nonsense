@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "预言与预知梦.md",
+            "file": "T型与Π型知识体系.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "预言与预知梦.md",
+                "file": "T型与Π型知识体系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "预言与预知梦.md",
+                "file": "T型与Π型知识体系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "预言与预知梦.md"
+                "file": "T型与Π型知识体系.md"
               }
             }
           }
@@ -111,15 +111,15 @@
   },
   "active": "55688298d82b1efd",
   "lastOpenFiles": [
-    "预言与预知梦.md",
-    "因果律与非线性时间.md",
-    "阅读.md",
-    "拉普拉斯妖.md",
+    "T型与Π型知识体系.md",
     "index.md",
-    "创业.md",
-    "新木桶理论.md",
-    "未来的趋势.md",
-    "风口与泡沫.md",
-    "命运.md"
+    "知行合一.md",
+    "因果律与非线性时间.md",
+    "预言与预知梦.md",
+    "闭环时间.md",
+    "res/20220109222233.png",
+    "刻意练习.md",
+    "阅读.md",
+    "拉普拉斯妖.md"
   ]
 }
