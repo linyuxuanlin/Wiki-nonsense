@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "规模经济.md",
+            "file": "人性.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "人性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "规模经济.md",
+                "file": "人性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "规模经济.md",
+                "file": "人性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "规模经济.md"
+                "file": "人性.md"
               }
             }
           }
@@ -111,6 +112,7 @@
   },
   "active": "55688298d82b1efd",
   "lastOpenFiles": [
+    "人性.md",
     "规模经济.md",
     "民族问题.md",
     "中等收入陷阱.md",
@@ -119,7 +121,6 @@
     "知行合一.md",
     "因果律与非线性时间.md",
     "预言与预知梦.md",
-    "闭环时间.md",
-    "res/20220109222233.png"
+    "闭环时间.md"
   ]
 }
