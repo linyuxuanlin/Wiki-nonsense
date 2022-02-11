@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "人性.md",
+            "file": "未来的趋势.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "人性",
+                "query": "未来",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人性.md",
+                "file": "未来的趋势.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人性.md",
+                "file": "未来的趋势.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人性.md"
+                "file": "未来的趋势.md"
               }
             }
           }
@@ -112,6 +112,7 @@
   },
   "active": "55688298d82b1efd",
   "lastOpenFiles": [
+    "未来的趋势.md",
     "人性.md",
     "规模经济.md",
     "民族问题.md",
@@ -120,7 +121,6 @@
     "index.md",
     "知行合一.md",
     "因果律与非线性时间.md",
-    "预言与预知梦.md",
-    "闭环时间.md"
+    "预言与预知梦.md"
   ]
 }
